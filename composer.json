@@ -1,0 +1,15 @@
+{
+    "name": "imakh/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Imakh\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IMakhonin",
+            "email": "IMakhonin24ru@gmail.com"
+        }
+    ],
+    "require": {}
+}
